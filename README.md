@@ -98,24 +98,12 @@
 
 ---
 
-## 📊 GitHub Analytics & Activity Hall
+## 📊 GitHub Activity & Streak
 
 <div align="center">
 
 ### 📈 GitHub Activity Graph
 [![Harishkumaran's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harishkumaran2005&theme=react-dark)](https://github.com/harishkumaran2005)
-
-<br/>
-
-### 📊 Profile Overview & Top Languages
-<p align="center">
-  <a href="https://github.com/harishkumaran2005">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=harishkumaran2005&show_icons=true&theme=dark&rank_icon=github&count_private=true" alt="Harishkumaran's GitHub Stats" />
-  </a>
-  <a href="https://github.com/harishkumaran2005">
-    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=harishkumaran2005&layout=compact&theme=dark&hide_border=false" alt="Most Used Languages" />
-  </a>
-</p>
 
 <br/>
 
