@@ -98,25 +98,32 @@
 
 ---
 
-## 📊 GitHub Analytics & Trophy Hall
+## 📊 GitHub Analytics & Activity Hall
 
 <div align="center">
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=harishkumaran2005&theme=onedark&column=4&margin-w=15&margin-h=15)
+### 📈 GitHub Activity Graph
+[![Harishkumaran's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harishkumaran2005&theme=react-dark)](https://github.com/harishkumaran2005)
 
 <br/>
 
-### 📈 Profile Overview & Top Languages
-
+### 📊 Profile Overview & Top Languages
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=harishkumaran2005&show_icons=true&theme=dark&rank_icon=github&count_private=true" alt="Harishkumaran's GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishkumaran2005&layout=compact&theme=dark&hide_border=false" alt="Most Used Languages" />
+  <a href="https://github.com/harishkumaran2005">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=harishkumaran2005&show_icons=true&theme=dark&rank_icon=github&count_private=true" alt="Harishkumaran's GitHub Stats" />
+  </a>
+  <a href="https://github.com/harishkumaran2005">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=harishkumaran2005&layout=compact&theme=dark&hide_border=false" alt="Most Used Languages" />
+  </a>
 </p>
+
+<br/>
 
 ### 🔥 Contribution Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harishkumaran2005&theme=dark&hide_border=false" alt="Harishkumaran's Streak" />
+  <a href="https://github.com/harishkumaran2005">
+    <img src="https://streak-stats.demolab.com/?user=harishkumaran2005&theme=dark&hide_border=false" alt="Harishkumaran's Streak" />
+  </a>
 </p>
 
 </div>
