@@ -51,6 +51,7 @@
 ### 💻 Programming Languages & Simulation
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -77,6 +78,7 @@
 | Project | Key Technologies | Description |
 | :--- | :--- | :--- |
 | 🎙️ **[Audio Accent Converter](https://github.com/harishkumaran2005/audio-accent-converter)** | Flask, Pydub, NumPy DSP, Web Audio | Speech accent transformation web tool using pitch/formant shifting and dynamic EQ. |
+| 🤖 **[Java Mini Desktop Chatbot](https://github.com/harishkumaran2005/JAVA-MINI-CHAT-BOT)** | Java, Java Swing, AWT | Interactive desktop GUI chatbot application with rule-based pattern matching backend. |
 | 🏭 **[Smart Conveyor AI Inspection](https://github.com/harishkumaran2005/smart-conveyor-ai-inspection)** | STM32, ESP32, OpenCV, L298N | Industrial quality inspection conveyor with embedded motor driver and AI vision. |
 | 🤖 **[Smart Robotic Arm Controller](https://github.com/harishkumaran2005/smart-robotic-arm-controller)** | STM32, ESP32-CAM, ESP8266 | Multi-microcontroller robotic manipulator with live video stream and web control. |
 | ⚡ **[Smith Chart RF Analyzer](https://github.com/harishkumaran2005/smith-chart-rf-analyzer)** | Flutter, Dart, Canvas, AI Solver | Interactive RF transmission line impedance matching app with AI solver. |
