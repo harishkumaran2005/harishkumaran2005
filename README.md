@@ -5,6 +5,7 @@
 ### **Embedded Systems & IoT Engineer | Edge AI & Robotics Specialist | ECE B.Tech @ KARE (9.36 CGPA)**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vharishkumaran-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vharishkumaran/)
+[![Instagram](https://img.shields.io/badge/Instagram-h__a__r__i.s.h-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/h_a_r_i.s.h)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Live_Site-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://harishkumaran2005.github.io/Harishkumaran-portflio/)
 [![GitHub Followers](https://img.shields.io/github/followers/harishkumaran2005?style=for-the-badge&logo=github&color=0969da)](https://github.com/harishkumaran2005)
 [![Profile Views](https://komarev.com/ghpvc/?username=harishkumaran2005&style=for-the-badge&color=8957e5)](https://github.com/harishkumaran2005)
@@ -135,6 +136,7 @@
 **📫 Connect with me:** &nbsp;
 [![Email](https://img.shields.io/badge/Email-harishkumaran87%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harishkumaran87@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vharishkumaran-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vharishkumaran/)
+[![Instagram](https://img.shields.io/badge/Instagram-h__a__r__i.s.h-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/h_a_r_i.s.h)
 [![Portfolio](https://img.shields.io/badge/Portfolio-harishkumaran2005.github.io-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://harishkumaran2005.github.io/Harishkumaran-portflio/)
 
 </div>
